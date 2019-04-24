@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="hubbard">Hubbard Park</string>
+    <string name="arboretum">Arboretum</string>
+    <string name="atwater">Atwater Beach</string>
+    <string name="bradford">Bradford Beach</string>
+</resources>
